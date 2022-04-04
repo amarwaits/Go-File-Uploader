@@ -16,3 +16,7 @@ go run main.go
 ```
 
 Go to localhost:8080/upload and you will see a form to upload a file. After selecting a file and clicking upload the file should be created in your local filesystem.
+
+## Implementation
+
+* [Go File Uploader](https://github.com/amargc/brankas-go/blob/main/main.go)
