@@ -1,6 +1,6 @@
 # Go File uploader
 
-A simple HTTP server that serves a HTML form Upload image file to and store in server using Go.
+A simple HTTP server that serves a HTML form to Upload image file to and store in server using Go.
 
 ## Prerequisites
 
